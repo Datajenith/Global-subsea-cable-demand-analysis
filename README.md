@@ -1,3 +1,19 @@
+## Project Highlights
+
+- **2025 Base Year:** USD 5.32B
+- **2027 Forecast:** USD 7.05B
+- **2025–2032 CAGR:** 15.96%
+- **Scope:** Global Offshore Wind Cable Market
+- **Use case:** Proxy indicator for global subsea power cable demand growth
+
+### Project Files
+
+- [Analysis Notebook](./analysis.ipynb)
+- [Dataset](./data/offshore_wind_cable_market.csv)
+- [Source Validation](./sources/source_validation.md)
+- [Final Research Report](./report/subsea_cable_demand_final_report_ko.docx)
+
+
 # Global-subsea-cable-demand-analysis
 Global subsea power cable demand research with source validation and Python-based market analysis
 # Global Subsea Power Cable Demand Research
@@ -57,7 +73,9 @@ Global subsea power cable demand research with source validation and Python-base
 
 최종적으로 PW Consulting / PmarketResearch의 "Worldwide Offshore Wind Cable Market 2026" 데이터를 사용했습니다.
 
-| Year | Market Size (USD Billion) | Classification |
+## Final Dataset
+
+| Year | Market Size (USD bn) | Classification |
 |---|---:|---|
 | 2023 | 4.049 | Historical |
 | 2024 | 4.627 | Historical |
@@ -65,7 +83,8 @@ Global subsea power cable demand research with source validation and Python-base
 | 2026 | 6.321 | Forecast |
 | 2027 | 7.046 | Forecast |
 
-### CAGR
+ource-reported 2025–2032 CAGR: 15.96%
+CAGR
 
 *2025–2032 CAGR: 15.96%*
 
@@ -191,3 +210,4 @@ subsea-cable-market-research/
 │
 └── sources/
     └── source_validation.md
+> Note: The selected dataset represents the global Offshore Wind Cable market and is used as a proxy for subsea power cable demand growth. It should not be interpreted as the total global subsea power cable market.
