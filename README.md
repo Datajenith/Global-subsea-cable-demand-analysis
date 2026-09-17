@@ -11,7 +11,7 @@
 - [Analysis Notebook](./analysis.ipynb)
 - [Dataset](./data/offshore_wind_cable_market.csv)
 - [Source Validation](./sources/source_validation.md)
-- [Final Research Report](./report/subsea_cable_demand_final_report_ko.docx)
+- [Final Research Report](./subsea_cable_demand_final_report_ko.docx)
 
 
 # Global-subsea-cable-demand-analysis
